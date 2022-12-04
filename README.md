@@ -15,3 +15,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 #### Links
 
 [Netlify](https://qrcodecomponent-gm.netlify.app/)
+
+[FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-landing-using-css-flexbox-_3f54CTHt5#comment-638cf65eee0cd89c5cb317f4)
