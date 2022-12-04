@@ -19,6 +19,7 @@ main{
     width: 100%;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -57,15 +58,21 @@ main{
     border-radius: 0.625rem;
 }
 
-.attribution { font-size: 0.6875rem; text-align: center; }
+.attribution {
+    font-size: 0.6875rem;
+    text-align: center; 
+    position: relative;
+    top: 1.875rem; 
+}
 
 .attribution a { color: hsl(228, 45%, 44%); }
 
-.attribution {
-    /* width: 100%; */
+
+
+/* .attribution {
     position: absolute;
     bottom: 1.25rem;
     left: 0rem;
     right: 0rem;
     margin: 0rem auto;
-}
+} */
